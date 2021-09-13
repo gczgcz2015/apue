@@ -1,6 +1,11 @@
 {
     "files.associations": {
         "apue.h": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "netdb.h": "c",
+        "fcntl.h": "c",
+        "socket.h": "c",
+        "syslog.h": "c",
+        "errno.h": "c"
     }
 }
